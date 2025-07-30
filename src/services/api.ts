@@ -10,7 +10,7 @@ import {
   AuthResponse
 } from '../types';
 
-const API_BASE_URL = 'https://backend-mpm.onrender.com';
+const API_BASE_URL = 'https://backend-mpm.onrender.com/api';
 ;
 
 // Create axios instance
