@@ -1,7 +1,5 @@
 # Mini Project Manager
-## https://frontend-mpm.vercel.app/
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Thr app is deployed at - https://frontend-mpm.vercel.app/
 
 ## Available Scripts
 
